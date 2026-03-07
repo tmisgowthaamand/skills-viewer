@@ -1,0 +1,48 @@
+---
+name: financial-services
+description: "Use this skill for any task related to running, starting, or growing a Financial Services business. Covers business planning, finance, marketing, operations, and compliance."
+version: 1.0.0
+category: business
+letter: F
+---
+
+# 💰 Financial Services
+
+> Use this skill for any task related to running, starting, or growing a **Financial Services** business.
+> Claude reads this file before executing finance, marketing, operations, or planning tasks for this business type.
+
+## Skill Files in This Folder
+
+| File | When to Use |
+|------|-------------|
+| [`business-plan.md`](./business-plan.md) | Writing a business plan, pitch deck, or strategy doc |
+| [`finance.md`](./finance.md) | Budgets, P&L, invoicing, cash flow, tax, accounting |
+| [`marketing.md`](./marketing.md) | Marketing plan, social media, SEO, ads, branding |
+| [`operations.md`](./operations.md) | SOPs, hiring, staffing, tools, compliance, workflows |
+
+## Business Overview
+
+Investment advisory and financial planning.
+
+## Industry at a Glance
+
+| Item | Details |
+|------|---------|
+| **Type** | Finance |
+| **Revenue Model** | Commissions, advisory fees, AUM % |
+| **Key Costs** | Staff, compliance tools |
+| **Typical Team Size** | 2–15 |
+| **Licenses Needed** | SEBI/AMFI/IRDA registration |
+| **Primary Tools** | Zerodha, Kuvera, Excel, WhatsApp |
+
+## Quick Start Checklist
+
+- [ ] Register business (GST + local licences)
+- [ ] Set up Zerodha as primary tool
+- [ ] Create service/product menu with pricing
+- [ ] Open Google My Business
+- [ ] Set up WhatsApp Business
+- [ ] Define 3 core SOPs
+
+## Related Skills
+- See [INDEX.md](../README.md) for related skills

@@ -1,0 +1,13 @@
+{
+    "name": "az-business-skills-viewer",
+    "version": "1.0.0",
+    "description": "A-Z Business Skills Viewer — 92 business types, 460 skill files",
+    "scripts": {
+        "build": "node build.js",
+        "start": "node server.js",
+        "dev": "node server.js"
+    },
+    "engines": {
+        "node": ">=18"
+    }
+}
