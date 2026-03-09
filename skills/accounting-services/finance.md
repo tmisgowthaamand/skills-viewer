@@ -6,6 +6,8 @@ description: "Complete finance, tax, GST, TDS, government schemes, and complianc
 
 # 📒 Accounting Services — Finance, Tax & Government Policies
 
+![Tax Compliance Ecosystem in India](/skills/accounting-services/images/tax-compliance-ecosystem.png)
+
 ## When to Use This File
 - User needs tax structure, GST rates, TDS sections, or compliance calendars
 - User asks about government schemes, MSME benefits, or required documents
@@ -109,6 +111,8 @@ description: "Complete finance, tax, GST, TDS, government schemes, and complianc
 ---
 
 ## 🏛️ Government Schemes — Detailed
+
+![Government Schemes for MSMEs](/skills/accounting-services/images/govt-schemes-msme.png)
 
 ### 💰 Financial Support Schemes
 

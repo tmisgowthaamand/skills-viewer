@@ -8,6 +8,8 @@ letter: A
 
 # 📒 Accounting Services — Complete India Guide
 
+![Accounting Services India Banner](/skills/accounting-services/images/accounting-services-banner.png)
+
 > Use this skill for any task related to running, starting, or growing an **Accounting Services** business in India.
 > Covers business planning, finance, government policies, marketing, operations, and compliance — from freelancers to enterprise.
 
@@ -75,6 +77,8 @@ letter: A
 ---
 
 ## 👥 Who Needs Accounting in India? — 8 Segments
+
+![People Segments in India](/skills/accounting-services/images/people-segments-india.png)
 
 | Segment | Population | Key Needs | Price Sensitivity |
 |---------|-----------|-----------|-------------------|

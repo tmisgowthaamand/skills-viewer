@@ -27,6 +27,8 @@ description: "Create a complete business plan for an Accounting Services firm in
 
 ### 2. Customer Segmentation — 5 Tiers
 
+![Business Tiers Pyramid](/skills/accounting-services/images/business-tiers-pyramid.png)
+
 #### 🟢 Tier 1: Micro / Individual (Freelancers, Gig Workers, Students)
 
 | Aspect | Details |

@@ -47,6 +47,20 @@ function build() {
         console.log(`  ✅ ${emoji} ${name}`);
     }
 
+    // Copy image directories from skills to dist
+    for (const dir of dirs) {
+        const imgDir = path.join(SKILLS_DIR, dir.name, 'images');
+        if (fs.existsSync(imgDir)) {
+            const destDir = path.join(OUT_DIR, 'skills', dir.name, 'images');
+            fs.mkdirSync(destDir, { recursive: true });
+            const images = fs.readdirSync(imgDir);
+            for (const img of images) {
+                fs.copyFileSync(path.join(imgDir, img), path.join(destDir, img));
+            }
+            console.log(`  🖼️  Copied ${images.length} images for ${dir.name}`);
+        }
+    }
+
     // Write bundled data
     const dataPath = path.join(OUT_DIR, 'data.json');
     fs.writeFileSync(dataPath, JSON.stringify(businesses));

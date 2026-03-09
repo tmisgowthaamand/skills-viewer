@@ -6,6 +6,8 @@ description: "Complete marketing strategy for Accounting Services in India — s
 
 # 📒 Accounting Services — Marketing & Social Media Strategy
 
+![Social Media Marketing Inspiration](/skills/accounting-services/images/social-media-inspiration.png)
+
 ## When to Use This File
 - User wants a marketing plan for an Accounting Services firm
 - User asks about social media, content strategy, or digital marketing
