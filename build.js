@@ -40,7 +40,7 @@ function build() {
         const files = {};
         for (const f of FILES) {
             const fp = path.join(SKILLS_DIR, slug, f);
-            files[f] = fs.existsSync(fp) ? fs.readFileSync(fp, 'utf8') : '# File not found';
+            files[f] = fs.existsSync(fp) ? fs.readFileSync(fp, 'utf8').replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '') : '# File not found';
         }
 
         businesses.push({ slug, name, emoji, letter, files });

@@ -895,8 +895,8 @@
         } catch (e) { md = '# Error loading file'; }
       }
 
-      // Strip YAML frontmatter
-      md = md.replace(/^---\n[\s\S]*?\n---\n/, '');
+      // Strip YAML frontmatter (handle both \n and \r\n)
+      md = md.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '');
 
       const html = marked.parse(md);
       area.innerHTML = `<div class="content-inner fade-up"><div class="md">${html}</div></div>`;
